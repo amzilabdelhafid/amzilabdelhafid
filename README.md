@@ -9,7 +9,7 @@
 
 
 
-<p align="center"> <a href="https://www.linkedin.com/in/abdelhafid-amzil-0b6025254/" target="blank"><img src="https://img.shields.io/linkedin/follow/abdelhafidamzil?logo=linkedin&style=for-the-badge" alt="abdelhafidamzil" /></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/abdelhafid-amzil-0b6025254/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abdelhafidamzil" /></a> </p>
 
 
 💬 Ask me about **Wordpress | MERN | SAAS**
