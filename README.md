@@ -1,6 +1,6 @@
 <div align="center">
 <div width="100%" height="150px" style="background-color: hsla(229, 50%, 13%, 1)">
-<img src="" alt="">
+<img src="https://github.com/amzilabdelhafid/amzilabdelhafid/blob/main/01-logo-loder-Spinner%20(2).gif" alt="bd">
 </div>
 
 <h1 align="center">Hi 👋, I'm Abdelhafid AMZIL</h1>
@@ -9,7 +9,7 @@
 
 
 
-<p align="center"> <a href="https://twitter.com/abdelhafidamzil" target="blank"><img src="https://img.shields.io/twitter/follow/abdelhafidamzil?logo=twitter&style=for-the-badge" alt="abdelhafidamzil" /></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/abdelhafid-amzil-0b6025254/" target="blank"><img src="https://img.shields.io/linkedin/follow/abdelhafidamzil?logo=linkedin&style=for-the-badge" alt="abdelhafidamzil" /></a> </p>
 
 
 💬 Ask me about **Wordpress | MERN | SAAS**
