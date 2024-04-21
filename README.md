@@ -9,9 +9,13 @@
 
 
 
-<p align="center"> <a href="https://www.linkedin.com/in/abdelhafid-amzil-0b6025254/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abdelhafidamzil" /></a> </p>
+<p align="center"> 
+ <a href="https://abdelhafidamzil.tech/" target="blank">
+ <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+ </a>
+ <a href="https://www.linkedin.com/in/abdelhafid-amzil-0b6025254/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abdelhafidamzil" /></a>
 <a href="https://twitter.com/abdelhafidamzil" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="abdelhafidamzil" /></a>
-
+ </p>
 
 💬 I talk about **Wordpress | MERN | SAAS | CARS**
 </br>
